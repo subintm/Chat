@@ -2,8 +2,7 @@
 
 ## 🚀 Tech Stack
 
-- React. ts
-- Redux Toolkit
+- React.js
 - Tailwind CSS
 - Vite
 -lucide-react
@@ -21,9 +20,3 @@ Launch the Vite local dev server:
 npm run dev
 ```
 
-## 🔑 Demo Credentials
-
-To access the protected dashboard:
-
-- **Username**: `admin`
-- **Password**: `admin123`
